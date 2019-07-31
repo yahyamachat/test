@@ -18,10 +18,10 @@ int C[3];
   
 
   A[0] = array(2);
-  A[1] = 3;
+  A[1] = mul(3,4);
   A[2] = 7;
   B[0] = array(3);
-  B[1] = 3;
+  B[1] = mul(3,8);
   B[2] = 4;
 /*The goal of this code is to multiplay 2 set of array*/
  for (i = 0; i < 3; i++) {
