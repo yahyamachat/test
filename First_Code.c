@@ -23,7 +23,7 @@ int C[3];
   B[0] = array(3);
   B[1] = 3;
   B[2] = 4;
-
+/*The goal of this code is to multiplay 2 set of array*/
  for (i = 0; i < 3; i++) {
  C[i]= mul(A[i],B[i]);
  if (C[i] > 15) 
