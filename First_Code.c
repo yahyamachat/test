@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*This comment is created for testing a new branch called "Array" for this file*/
 int array (int a)
 {
 return a*2;
